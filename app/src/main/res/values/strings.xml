@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Puzzling</string>
+
+    <!-- PLAY LAYOUT -->
+    <string name="play">Play</string>
+    <string name="gallery">From Gallery</string>
+    <string name="camera">From Camera</string>
+
+    <!-- SETTINGS -->
+    <string name="Settings">Settings</string>
+    <string name="Music">Music</string>
+    <string name="Language">Language</string>
+    <string name="AboutUs">About us</string>
+
+    <!-- ACTION BAR -->
+    <string name="Help">Help</string>
+
+    <!-- GENERAL -->
+    <string name="Back">Back</string>
+    <string name="Description">No description needed</string>
+
+</resources>
